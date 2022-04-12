@@ -7,5 +7,5 @@
 # Pierre-Axel RIVIERE
 # Jeremy SALEH
 # Ilyes MAGHLAOUA
-# https://github.com/uvsq22006040/projet_boulier
+# https://github.com/uvsq22006040/Projet-boulier
 ####################################
