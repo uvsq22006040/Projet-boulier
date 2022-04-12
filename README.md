@@ -7,5 +7,5 @@
 # Pierre-Axel RIVIERE
 # Jeremy SALEH
 # Ilyes MAGHLAOUA
-# https://github.com/uvsq22006040/projet_tas_de_sable
+# https://github.com/uvsq22006040/projet_boulier
 ####################################
