@@ -39,7 +39,7 @@ for i in range(3, N, 3):
                     HAUTEUR / 8 - HAUTEUR / 16 - 10,
                     LARGEUR / (N + 1) * (N - i) + 30,
                     HAUTEUR / 8 - HAUTEUR / 16 + 30,
-                    fill="sienna4"
+                    fill="black"
                 )
             else:
                 canvas.create_oval(
@@ -47,7 +47,7 @@ for i in range(3, N, 3):
                     HAUTEUR / 4 + ((j + 1) * HAUTEUR / 8) - 10,
                     LARGEUR / (N + 1) * (N - i) + 30,
                     HAUTEUR / 4 + ((j + 1) * HAUTEUR / 8) + 30,
-                    fill="sienna4"
+                    fill="black"
                 )
 canvas.grid()
 racine.mainloop()
